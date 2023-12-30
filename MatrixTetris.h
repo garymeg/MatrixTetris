@@ -15,11 +15,16 @@
     please consider becoming a sponsor on Github
     https://github.com/sponsors/witnessmenow/
 
-    Written by Brian Lough
+    Original code Written by Brian Lough
     YouTube: https://www.youtube.com/brianlough
     Tindie: https://www.tindie.com/stores/brianlough/
     Twitter: https://twitter.com/witnessmenow
- *******************************************************************/
+ *******************************************************************
+
+    Updated for adafruit Protomatter library by Gary Metheringham
+    Settings set up for using Raspberry Pico with my own adaptor board
+    you will need to change the pin numbers to match your own board
+********************************************************************/
 
 // ----------------------------
 // Additional Libraries - each one of these will need to be installed.
