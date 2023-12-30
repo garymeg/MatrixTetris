@@ -1,0 +1,8 @@
+#line 1 "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\Adafruit_Examples\\animated_gif\\.vscode\\arduino.json"
+{
+    "configuration": "flash=2097152_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,wificountry=worldwide,ipbtstack=ipv4only,uploadmethod=default",
+    "board": "rp2040:rp2040:rpipicow",
+    "port": "COM6",
+    "output": "./build",
+    "sketch": "animated_gif.ino"
+}

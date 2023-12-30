@@ -1,0 +1,23 @@
+#line 1 "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\Adafruit_Examples\\animated_gif\\.vscode\\c_cpp_properties.json"
+{
+    "configurations": [
+       
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${default}"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

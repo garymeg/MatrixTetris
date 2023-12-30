@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\gmeth\\Desktop\\HUB75_Clock_64x64\\.vscode\\arduino.json"
+{
+    "configuration": "flash=2097152_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,wificountry=worldwide,ipbtstack=ipv4only,uploadmethod=default",
+    "board": "rp2040:rp2040:rpipicow",
+    "output": "./build",
+    "sketch": "HUB75_Clock_64x64.ino",
+    "port": "COM5"
+}

@@ -1,0 +1,26 @@
+Setting Custom spi pins
+
+SPI.setRX(MOSI_PIN);
+SPI.setTX(MISO_PIN);
+SPI.setCLK(SCLK_PIN);
+SPI.setCS(CS_PIN);
+
+you can do the same with SPI1 for the second SPI bus
+
+Same thing Applies to Wire & Wire1
+
+Wire.setSDA(SDA_PIN);
+Wire.setSCL(SCL_PIN);
+
+Serial Has 3 Ports
+
+Serial      -   this is the default port (USB)
+Serial1     -   this is UART0
+Serial2     -   this is UART1
+
+the pins can be set as above using
+Serial.setRX(RX_PIN);
+Serial.setTX(TX_PIN);
+
+as above for Serial1 and Serial2
+

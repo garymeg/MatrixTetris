@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fstream": "cpp",
+			"xlocmes": "cpp",
+			"*.tcc": "cpp",
+			"typeinfo": "cpp",
+			"locale": "cpp"
+		}
+	}
+}

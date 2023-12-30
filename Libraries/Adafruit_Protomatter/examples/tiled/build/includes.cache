@@ -1,0 +1,97 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\cores\\rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\variants\\rpipico"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "Adafruit_Protomatter.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "d:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled\\build\\sketch\\tiled.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src\\Adafruit_Protomatter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src\\core.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

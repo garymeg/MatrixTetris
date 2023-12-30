@@ -1,0 +1,167 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "Adafruit_Protomatter.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "FS.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\FS\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "SD.h",
+    "Includepath": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SD\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\picoAsteriods.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Asteroid.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Constants.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Player.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Point.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\SDL_Point.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Shape.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\picoAsteriods\\build\\sketch\\Vertex.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src\\Adafruit_Protomatter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\src\\core.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\FS\\src\\FS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\FS\\src\\vfs_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SD\\src\\SD.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SD\\src\\sd_diskio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.7\\libraries\\SD\\src\\sd_diskio_crc.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

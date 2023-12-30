@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "iterator": "cpp"
+    }
+}

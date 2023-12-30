@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "rp2040:rp2040:rpipico:flash=2097152_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipstack=ipv4only",
+  "hardwareFolders": "C:\\Users\\gmeth\\AppData\\Local\\Arduino15\\packages,D:\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "D:\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "D:\\Documents\\Arduino\\libraries\\Adafruit_Protomatter\\examples\\tiled"
+}
